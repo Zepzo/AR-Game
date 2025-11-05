@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class SetPrefab : MonoBehaviour
 {
-    public XRReferenceImageLibrary Lib;
+    //public XRReferenceImageLibrary Lib;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
