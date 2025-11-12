@@ -1,21 +1,27 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.XR.ARFoundation;
 
 public class ChangeScenes : MonoBehaviour
 {
+    [SerializeField] private ARTrackedImageManager manager;
 
-    public void one()
+    [SerializeField] private GameObject one;
+    [SerializeField] private GameObject two;
+    [SerializeField] private GameObject three;
+
+    public void One()
     {
-        SceneManager.LoadScene("1");
+        manager.trackedImagePrefab = one;
     }
 
-    public void two()
+    public void Two()
     {
-        SceneManager.LoadScene("2");
+        manager.trackedImagePrefab = two;
     }
 
-    public void three()
+    public void Three()
     {
-        SceneManager.LoadScene("3");
+        manager.trackedImagePrefab = three;
     }
 }
