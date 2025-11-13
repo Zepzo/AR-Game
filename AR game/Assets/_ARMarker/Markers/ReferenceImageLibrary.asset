@@ -21,9 +21,29 @@ MonoBehaviour:
       m_GuidLow: 4635741332808656079
       m_GuidHigh: 13984011863404536204
     m_SerializedTextureGuid:
-      m_GuidLow: 10935960758103965435
-      m_GuidHigh: 15994318053438090411
+      m_GuidLow: 10170324857161434534
+      m_GuidHigh: 7560187619112106155
     m_Size: {x: 0.0508, y: 0.0508}
     m_SpecifySize: 0
-    m_Name: fuse
+    m_Name: Cube
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5011849109248948036
+      m_GuidHigh: 4162481674515273371
+    m_SerializedTextureGuid:
+      m_GuidLow: 4711916501246862753
+      m_GuidHigh: 13704363768533677336
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Sphere
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5471718971215367657
+      m_GuidHigh: 1514869983764695221
+    m_SerializedTextureGuid:
+      m_GuidLow: 10935960758103965435
+      m_GuidHigh: 15994318053438090411
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Capsule
     m_Texture: {fileID: 0}
