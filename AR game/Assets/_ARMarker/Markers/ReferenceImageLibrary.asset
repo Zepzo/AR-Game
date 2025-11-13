@@ -37,13 +37,3 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: Sphere
     m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 5471718971215367657
-      m_GuidHigh: 1514869983764695221
-    m_SerializedTextureGuid:
-      m_GuidLow: 10935960758103965435
-      m_GuidHigh: 15994318053438090411
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: Capsule
-    m_Texture: {fileID: 0}
